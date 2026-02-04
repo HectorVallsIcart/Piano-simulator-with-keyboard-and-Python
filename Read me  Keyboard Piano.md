@@ -1,4 +1,4 @@
-# Piano-simulator-with-keyboard-and-Python
+# Piano simulator with keyboard and Python
 # Python Keyboard Piano 
 
 This project is a **simple piano simulator** that allows you to play musical notes using your computer keyboard.
